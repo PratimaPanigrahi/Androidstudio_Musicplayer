@@ -78,4 +78,31 @@ git clone https://github.com/your-username/Androidstudio_Musicplayer.git
 ### 1. 🎵 Main Screen
 
 - Lists all available songs  
-- Tap to start playback  
+- Tap to start playback
+  
+  <img src="app\src\main\res\drawable\main.png" alt="Start Page" width="340" height="400"/>
+     &nbsp;
+    <img src="app\src\main\res\drawable\List.png" alt="Start Page" width="340" height="400"/>
+
+
+### 2. ▶️ Now Playing
+
+- Displays track info, play/pause, next/previous  
+- Seek bar with real-time updates  
+
+    <img src="app\src\main\res\drawable\song.png" alt="Start Page" width="340" height="400"/>
+---
+
+## 📘 What I Learned
+
+- Built an Android-native **music player UI** using **MediaPlayer API**  
+- Used **Gradle** to manage dependencies and Android build tools  
+- Managed app lifecycle and UI updates on media playback  
+- Structured the project using standard **Android conventions**  
+
+---
+
+## 📬 Contact
+
+Feel free to contribute or report issues: 
+- 🛠️ Pull Requests welcome  
