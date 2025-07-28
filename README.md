@@ -53,7 +53,7 @@
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Androidstudio_Musicplayer.git
+git clone https://github.com/PratimaPanigrahi/Androidstudio_Musicplayer.git
 ```
 
 #### Step 2: Select "Get from Version Control"
